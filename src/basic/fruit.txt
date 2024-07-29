@@ -4,3 +4,6 @@ pineapple
 mango
 watermelon
 zzzzzzzzzz
+kiwi
+peach
+grape
